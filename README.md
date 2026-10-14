@@ -20,18 +20,10 @@
 
 I'm a **full-stack web developer** with a frontend heart ❤️ — I love turning ideas into fast, polished interfaces and backing them with solid, scalable APIs.
 
-```ts
-const mehdi = {
-  role: "Full-Stack Web Developer",
-  focus: ["Frontend Architecture", "Design Systems", "Microservices"],
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
-  state: ["Zustand", "TanStack Query"],
-  backend: ["NestJS", "Prisma", "PostgreSQL", "Redis", "Elasticsearch"],
-  devops: ["Docker", "Traefik", "Linux"],
-  languages: ["Persian", "English"],
-  motto: "Clean code, happy users.",
-};
-```
+- 💼 **Role:** Full-Stack Web Developer
+- 🎯 **Focus:** Frontend Architecture, Design Systems, Microservices
+- 🗣️ **Languages:** Persian, English
+- ✨ **Motto:** *Clean code, happy users.*
 
 - 🚀 Building a **video streaming platform** on a microservice architecture — auth, payments, uploads, transcoding & search
 - 🎨 Crafting **bilingual (FA/EN), RTL-friendly** interfaces with a shared design system
